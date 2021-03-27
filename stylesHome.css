@@ -1,0 +1,18 @@
+#content {
+    margin: auto;
+}
+
+#buttonGrid {
+    width: 40vw;
+    padding-top: 10vw;
+    margin: auto;
+}
+
+
+
+.button {
+    display: block;
+    width: 35vw;
+    height: 5vw;
+    margin: auto;    
+}
