@@ -7,8 +7,7 @@ var client = new XMLHttpRequest();
                 var txt = client.responseText.split("\n");
                 document.getElementById("h1").innerHTML = txt[0];
                 document.getElementById("txt1").innerHTML = txt[1];
-                document.getElementById("h2").innerHTML = txt[2];
-               
+                document.getElementById("h2").innerHTML = txt[2];  
             }
         }
         client.send();
