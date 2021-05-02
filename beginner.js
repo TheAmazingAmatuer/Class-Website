@@ -10,4 +10,4 @@ var client = new XMLHttpRequest();
                 document.getElementById("h2").innerHTML = txt[2];  
             }
         }
-        client.send();
+        
